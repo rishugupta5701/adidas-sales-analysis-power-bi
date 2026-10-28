@@ -3,7 +3,7 @@
 
 An interactive sales analytics dashboard developed as an independent portfolio project to explore sales performance, product categories, regional trends, sales channels, and retailer contributions.
 
-![Adidas Sales Analysis Dashboard](images/dashboard.png)
+![Adidas Sales Analysis Dashboard](images/adidas.png)
 
 ## Project Overview
 
@@ -21,8 +21,8 @@ This project focuses on transforming sales data into an interactive dashboard th
 ## Tools & Technologies
 
 - Microsoft Power BI
-- DAX (Data Analysis Expressions), if used in the report
-- Power Query, if used for data transformation
+- DAX (Data Analysis Expressions)
+- Power Query
 - Data visualization and business intelligence
 
 ## Dashboard Features
@@ -32,7 +32,7 @@ This project focuses on transforming sales data into an interactive dashboard th
 - Total Profit: $332.13M
 - Total Units Sold: 18M
 - Average Price per Unit: $45.22
-- Average Profit Margin: 42.30% (measure definition to be verified)
+- Average Profit Margin: 42.30%
 
 ### Visualizations
 1. Monthly Sales Trend
@@ -53,12 +53,10 @@ This project focuses on transforming sales data into an interactive dashboard th
 - Men's Street Footwear leads the displayed product categories at approximately $209M.
 - West Gear leads the displayed retailer comparison at approximately $0.24B.
 
-These observations describe the values displayed in the dashboard and should be validated against the underlying dataset and filter context before being used as formal business conclusions.
-
 ## Files
 
-- `images/dashboard.png` — Dashboard screenshot
-- `Adidas_Sales_Analysis.pbix` — Power BI report file, if included
+- `images/adidas.png` — Dashboard screenshot
+- `Adidas_Sales_Analysis.pbix` — Power BI report file
 
 ## How to Explore
 
@@ -66,11 +64,7 @@ These observations describe the values displayed in the dashboard and should be 
 2. If the `.pbix` file is included, open it using Microsoft Power BI Desktop.
 3. Interact with the year and region filters to explore the report.
 
-## Data Source
 
-[Add the actual dataset name and original source here.]
-
-Only share datasets that you have permission to redistribute. If the source is third-party data, credit the original provider.
 
 ## Disclaimer
 
